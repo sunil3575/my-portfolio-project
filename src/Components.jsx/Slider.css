@@ -1,0 +1,21 @@
+.card-img-overlay
+{
+    /* color: #5086e1bf; */
+    color:blue;
+  text-align:left;
+  margin-left: 200px;
+   margin-top:50px;
+    position: absolute;
+
+}   
+.card-img-bottom{
+    position: relative;
+    color: rgb(180, 167, 200);
+   
+}
+@media (min-width:320px) and (max-width:1024px) {
+    .slider_image{
+        width:100% !important;
+        height:300px !important;
+    }
+}
