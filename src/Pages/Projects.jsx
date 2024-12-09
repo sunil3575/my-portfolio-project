@@ -7,7 +7,7 @@ import picture3 from '../project_photos/my travell react app.png'
 import picture4 from '../project_photos/paint_react_app.png'
 import picture5 from '../project_photos/weather react app.png'
 import picture6 from '../project_photos/indiatouriumproject.png';
-import picture7 from '../project_photos/hydroslide.png';
+import picture8 from '../project_photos/nilganga_oringinal.png';
 import cal_pic from '../project_photos/calcultor.png';
 import './Projects.css';
 
@@ -63,7 +63,7 @@ const Projects = () => {
       </Col>
       <Col>
       <h5 className='project_heading1'>HydroPower Website</h5>
-      <Image className='projects_pics'  src={picture7}/>
+      <Image className='projects_pics'  src={picture8}/>
       <a className='projects_anchor' href='/hydropower'>For More Details...</a>
       </Col>
       <Col>
