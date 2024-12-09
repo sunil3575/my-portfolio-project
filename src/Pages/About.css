@@ -9,14 +9,13 @@
     background-color: rgb(239, 239, 247) !important;
     margin-top: 50px !important;
     border-radius: 5px !important;
-    box-shadow: rgba(50, 50, 93,) 0px 50px 100px -20px, rgba(0, 0, 0, 0.1) 0px 30px 60px -30px, rgba(10, 37, 64, 0.15) 0px -2px 6px 0px inset;
-
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 .second_about_row{
     background-color: rgb(239, 239, 247) !important;
     margin-top: 50px !important;
     border-radius: 5px !important;
-    box-shadow: rgba(50, 50, 93,) 0px 50px 100px -20px, rgba(0, 0, 0, 0.1) 0px 30px 60px -30px, rgba(10, 37, 64, 0.15) 0px -2px 6px 0px inset;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 
 
 }
@@ -61,8 +60,7 @@
     margin-bottom: 50px;
     background-color: rgba(33, 33, 142, 0.501) !important;
     border-radius: 5px !important;
-    box-shadow: rgba(50, 50, 93,) 0px 50px 100px -20px, rgba(0, 0, 0, 0.1) 0px 30px 60px -30px, rgba(10, 37, 64, 0.15) 0px -2px 6px 0px inset;
-
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
    
 }
 .third_about_column{

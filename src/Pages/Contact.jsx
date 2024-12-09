@@ -51,7 +51,8 @@ const Contact = () => {
           />
           <Marker position={[27.607199, 83.414790]} icon={customicon}>
             <Popup>
-            <h6 style={{color:"green"}}> sudhodan gaupalika word-03,charpata</h6>
+            <h6 style={{color:"green"}}>sudhodan gaupalika word-03,charpata.</h6>
+            <h6 style={{color:"green",textAlign:"center"}}>This is my house Location.</h6>
             </Popup>
           </Marker>
         </MapContainer>

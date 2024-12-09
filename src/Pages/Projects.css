@@ -11,21 +11,18 @@
     height: 300px !important;
     margin-bottom: 20px;
     margin-top: 40px;
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
 }
 .projects_pics1{
     width: 100% !important;
     height: 300px !important;
     margin-bottom: 20px;
     margin-top: 40px;
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px;
 }
 .projects_row{
     margin-bottom: 50px;
     background-color: rgb(250, 240, 240) !important;
     border-radius: 5px !important;
-    box-shadow: rgba(50, 50, 93,) 0px 50px 100px -20px, rgba(0, 0, 0, 0.1) 0px 30px 60px -30px, rgba(10, 37, 64, 0.15) 0px -2px 6px 0px inset;
-    padding-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;    padding-bottom: 10px;
 }
 .project_heading1{
     padding: 10px !important;

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.io/sunil3575/my-portfolio-project.git",
+  "homepage": "https://sunil3575.github.io/my-portfolio-project",
   "name": "my-portfolio-project",
   "version": "0.1.0",
   "private": true,
@@ -25,8 +25,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
