@@ -1,6 +1,6 @@
 import React from 'react'
 import { Col, Container, Image, Row } from 'react-bootstrap';
-import picture7 from '../project_photos/hydroslide.png';
+import picture7 from '../project_photos/nilganga_oringinal.png';
 import picture8 from '../project_photos/hydrobod.png';
 import picture9 from '../project_photos/hydroteam.png';
 import picture10 from '../project_photos/hydronews.png';
